@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://anantafr.github.io/sitemap.xml
