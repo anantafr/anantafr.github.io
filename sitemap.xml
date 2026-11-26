@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://anantafr.fr/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://anantafr.fr/actualites.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anantafr.fr/le-jeu.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anantafr.fr/lore.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anantafr.fr/communaute.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anantafr.fr/mentions-legales.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.3</priority>
+  </url>
+</urlset>
